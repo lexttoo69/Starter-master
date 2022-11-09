@@ -160,7 +160,7 @@ body.light-theme
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-block: 1.5rem;
+    padding-block: 0.5rem;
     
 }
  
@@ -1084,7 +1084,7 @@ NEWLETTER */
 .article-description
 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-     color: rgb(12, 196, 247);
+     color: white;
 }
 
 
