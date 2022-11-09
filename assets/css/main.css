@@ -182,9 +182,10 @@ body.light-theme
     background-color: var(--secondary-background-color);
     opacity: 0;
     transform: scale(0);
- /* ENDS EV 02 */
- /* STARTS EV 03 */
+
     transition: .25s ease-in;
+     /* ENDS EV 02 */
+     /* STARTS EV 03 */
     
 }
 
